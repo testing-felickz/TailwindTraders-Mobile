@@ -1,4 +1,4 @@
-﻿<Project Sdk="Microsoft.NET.Sdk">
+<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
@@ -39,7 +39,7 @@
     <PackageReference Include="Microsoft.AppCenter.Crashes" Version="1.14.0" />
     <PackageReference Include="Microsoft.AppCenter.Analytics" Version="1.14.0" />
     <PackageReference Include="Microsoft.AppCenter.Distribute" Version="1.14.0" />
-    <PackageReference Include="CSharp.OperationResult" Version="0.1.5" />
+    <PackageReference Include="CSharp.OperationResult" Version="0.1.6" />
   </ItemGroup>
   
   <ItemGroup>
